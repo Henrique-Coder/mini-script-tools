@@ -5,7 +5,7 @@ from os import system as cmd
 
 def app_title():
     cmd('cls || clear')
-    print('\n# </> -- > Simple Calculator </>\n')
+    print('\n# </> -- > Basic Calculator </>\n')
 
 
 def calculation(num1, num2, mode):
