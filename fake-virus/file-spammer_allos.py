@@ -1,5 +1,3 @@
-# </> -- > Developed by: @Henrique-Coder (https://github.com/Henrique-Coder) </>
-
 quantity = 3  # Quantity of files to be created
 prefix = 'A'  # Prefix of the files
 extension = 'txt'  # Extension of the files (without the dot)

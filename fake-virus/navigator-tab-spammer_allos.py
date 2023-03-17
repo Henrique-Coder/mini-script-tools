@@ -1,5 +1,3 @@
-# </> -- > Developed by: @Henrique-Coder (https://github.com/Henrique-Coder) </>
-
 from os import startfile
 
 
