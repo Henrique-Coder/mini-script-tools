@@ -6,6 +6,7 @@ if not "%1"=="am_admin" (
     exit /b
 )
 
+:: Reset internet connection
 echo [!] Resetting internet connection...
 
 ipconfig /release
